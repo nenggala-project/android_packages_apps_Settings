@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2017-2022 The LineageOS Project
+     Copyright (C) 2022 Nenggala Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -42,7 +43,7 @@
     <string name="berry_black_theme_summary">Pure black background for dark theme</string>
 
     <!-- Device Info screen. LineageOS legal. -->
-    <string name="lineagelicense_title">LineageOS legal</string>
+    <string name="lineagelicense_title">Nenggala Project legal</string>
 
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Tap to show info</string>
